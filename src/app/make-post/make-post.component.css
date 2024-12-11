@@ -1,0 +1,18 @@
+ .main-container {
+    display: flex;
+    height: 100vh;
+}
+.encabezado {
+    font-size: xx-large;
+    font-weight: 500;
+  }
+  .make-post-card {
+    flex: 1;
+    background-color: #404040;
+    padding: 1.5rem;
+    box-shadow: #303030;
+    color: rgb(192, 192, 192);
+  }
+  .texto_post {
+    background-color: rgb(80,80,80);
+  }
